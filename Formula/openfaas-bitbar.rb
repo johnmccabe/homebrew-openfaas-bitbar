@@ -1,4 +1,4 @@
-class Openfaas-bitbar < Formula
+class OpenfaasBitbar < Formula
     desc "Manage OpenFaaS from your OSX menubar"
     homepage "https://github.com/johnmccabe/openfaas-bitbar/"
     url "https://github.com/johnmccabe/openfaas-bitbar/releases/download/0.0.4/openfaas-bitbar.tar.gz"
