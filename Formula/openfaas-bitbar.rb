@@ -1,9 +1,9 @@
 class OpenfaasBitbar < Formula
     desc "Manage OpenFaaS from your OSX menubar"
     homepage "https://github.com/johnmccabe/openfaas-bitbar/"
-    url "https://github.com/johnmccabe/openfaas-bitbar/releases/download/0.0.5/openfaas-bitbar.tar.gz"
-    sha256 "fd826049f714624ca3168b1b1702c6e5d3f50f743ff7e6c2474c7dc820e9d442"
-    version "0.0.5"
+    url "https://github.com/johnmccabe/openfaas-bitbar/releases/download/0.0.6/openfaas-bitbar.tar.gz"
+    sha256 "c118313ca10be4e2f41af3852ba67991b61a282eda28018e076dd2bda7e9b504"
+    version "0.0.6"
   
     bottle :unneeded
   
